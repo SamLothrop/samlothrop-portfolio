@@ -29,7 +29,7 @@ const Home = () => {
                 </Button>
               </a>
               <div className="mb-8 xl:mb-0">
-                <Socials containerStyles='flex gap-6' iconStyles='w-9 h-9 borderborder-destructive rounded-full flex justify-center items-center text-destructive text-base hover:bg-destructive hover:text-primary hover:transition-all duration-500' />
+                <Socials containerStyles='flex gap-6' iconStyles='w-9 h-9 border border-destructive rounded-full flex justify-center items-center text-destructive text-base hover:bg-destructive hover:text-primary hover:transition-all duration-500' />
               </div>
             </div>
           </div>
